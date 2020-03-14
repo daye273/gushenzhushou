@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://123.59.46.141:1818/static/gushenzhushou.ipa</string>
+                    <string>https://github.com/daye273/gushenzhushou/blob/master/Gushenzhushou.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
